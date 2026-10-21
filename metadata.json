@@ -1,0 +1,6 @@
+{
+  "name": "FerreTools - Catálogo Digital Interactivo",
+  "description": "Catálogo digital interactivo mayorista de FerreTools (Distribuidora Ferre-Tool, S.A.) con edición de precios en tiempo real, carrito de compras y pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
